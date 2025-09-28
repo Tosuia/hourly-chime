@@ -1,7 +1,7 @@
 Hourly Chime Tray App (Portable)
 
 A minimal Windows tray application that plays a custom hourly chime sound and syncs your system time at startup.  
-No installation required—just extract and run!
+No installation required — just extract and run!
 
 ---
 
@@ -10,7 +10,7 @@ No installation required—just extract and run!
 - Hourly chime: Plays a short WAV sound at the start of every hour.
 - System tray icon: Runs silently in the background; right-click the tray icon for an Exit option.
 - Automatic time sync: Syncs your PC clock with internet time servers at startup.
-- No installation needed: 100% portable—no registry changes, no system modifications.
+- No installation needed: 100% portable — no registry changes, no system modifications.
 
 ---
 
