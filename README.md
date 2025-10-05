@@ -65,7 +65,6 @@ MIT License.
 
  Credits
 
-Tosuia (2025).  
-Icon and chime sound are user-supplied.
+Tosuia (2025).
 
 ---
