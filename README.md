@@ -22,7 +22,9 @@ Download and extract all files to any folder (for example: 'C:\Chime').
 
 Required files:
 - 'HourlyChimeTray.exe'
-- 'casio_hourly_chime.wav' (or your custom WAV sound)
+- 'HourlyChimeTray.exe.config'
+- 'HourlyChimeTray.pdb'
+- 'casio_hourly_chime.wav'
 - 'chime_ico.ico'
 
  2. Run
